@@ -1,4 +1,4 @@
-class fftviz < Formula
+class Fftviz < Formula
   desc "A lightweight, customizable FFT visualizer for audio files"
   homepage "https://github.com/gursi26/fftviz"
   url "https://github.com/gursi26/fftviz/releases/download/v0.2.0/fftviz-mac.tar.gz"
